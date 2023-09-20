@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 13966, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: ScenePuzzleBase
+  m_EditorClassIdentifier: 
+  templateScene: {fileID: 102900000, guid: afe6676df327ed448b204d43269a2b7f, type: 3}
+  templateName: 
+  description: 
+  preview: {fileID: 0}
+  dependencies:
+  - dependency: {fileID: 7666827914792637526, guid: 34ce13a9df2cca44d8a3be0c6cc04d9e, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 6954208522646672560, guid: 98a7c3c4fffe25541a76b7bfd8bd28fc, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 3877883036034233366, guid: 5955df3d785824b408ce9b0bcd40a014, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 2800000, guid: ee148e281f3c41c5b4ff5f8a5afe5a6c, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 2800000, guid: 2fd6421f253b4ef1a19526541f9ffc0c, type: 3}
+    instantiationMode: 1
+  - dependency: {fileID: 11400000, guid: 2e498d1c8094910479dc3e1b768306a4, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 5753946286912457125, guid: 3eca85307cf871a4d887c79875e1375c, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 5757288467822896500, guid: d901df318536df8419da6f3299f72cc0, type: 3}
+    instantiationMode: 0
+  - dependency: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+    instantiationMode: 1
+  - dependency: {fileID: 12800000, guid: e3265ab4bf004d28a9537516768c1c75, type: 3}
+    instantiationMode: 1
+  templatePipeline: {fileID: 0}
+  badge: {fileID: 0}
+  addToDefaults: 0
