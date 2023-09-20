@@ -3,6 +3,7 @@ This game's version is the one released for the UDC Jam #27 - One Hit (https://i
 
 # READ BEFORE DOWNLOADING
 This project uses Git Large Files Storage. You need to install the plugin and then clone the repository. If you download as Zip file, it won't work and it will generate errors for the files that require Git LFS.
+Unity Version: 2021.3.25f1
 
 # Licenses
 This project is released under GPL 3.0, which in summary says:
